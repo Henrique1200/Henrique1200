@@ -22,7 +22,7 @@
     </a>
     
     
-    <details>
+    
 <summary><b>Sobre mim</b></summary>
 <p>Cursando Generation Brasil: Formação para Desenvolvedor Full Stack Java Jr</p>
 <p>Experiência Profissional: 1 ano e 7 meses de serviço como vendedor em loja de shopping (Multicoisas) (Jan 2019 / Jul 2020).</p>
