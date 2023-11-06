@@ -1,5 +1,5 @@
 <h1 align="center">
-    Seja bem vindo(a)(e) ! 
+    Seja bem vindo(a)! 
 </h1>
 <p align="center">
     <b>Me chamo Henrique Leonardo Delbo, e esse é o meu perfil do GitHub espero que goste.</b>
@@ -24,8 +24,11 @@
     
     
 <summary><b>Sobre mim</b></summary>
-<p>Cursando Generation Brasil: Formação para Desenvolvedor Full Stack Java Jr</p>
+<p>Formação Acadêmica: Análise e Desenvolvimento de Sistemas (Ago 2021 / jul 2023).</p>
+<p>Formado na Generation Brasil: Formação para Desenvolvedor Full Stack Java Jr</p>
+<p>Formação Acadêmica: Técnico em Administração (Etec Professor Aprígio Gonzaga  jan 2016 / dez 2018).  </p> 
+<p>Experiência Profissional: 7 meses como analista de desenvolvimento na RTM - Rede de Telecomunicações para o mercado (Março 2023 / Novembro 2023).</p> 
 <p>Experiência Profissional: 1 ano e 7 meses de serviço como vendedor em loja de shopping (Multicoisas) (Jan 2019 / Jul 2020).</p>
-<p>Formação Acadêmica: cursando Análise e Desenvolvimento de Sistemas (Ago 2021 / jul 2023).</p>
-<p>Formação Acadêmica: Técnico em Administração (Etec Professor Aprígio Gonzaga  jan 2016 / dez 2018).  </p>    
+
+  
     
