@@ -24,9 +24,9 @@
     
     
 <summary><b>Sobre mim</b></summary>
-<p>Formação Acadêmica: Análise e Desenvolvimento de Sistemas (Ago 2021 / jul 2023).</p>
-<p>Formado na Generation Brasil: Formação para Desenvolvedor Full Stack Java Jr</p>
-<p>Formação Acadêmica: Técnico em Administração (Etec Professor Aprígio Gonzaga  jan 2016 / dez 2018).  </p> 
+<p>Formação Acadêmica: Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (Ago 2021 / jul 2023).</p>
+<p>Formado na Generation Brasil: Formação para Desenvolvedor Full Stack Java Jr (jul 2022 / out 2022)</p>
+<p>Formação Acadêmica: Técnico em Administração na Etec Professor Aprígio Gonzaga (jan 2016 / dez 2018).  </p> 
 <p>Experiência Profissional: 7 meses como analista de desenvolvimento na RTM - Rede de Telecomunicações para o mercado (Março 2023 / Novembro 2023).</p> 
 <p>Experiência Profissional: 1 ano e 7 meses de serviço como vendedor em loja de shopping (Multicoisas) (Jan 2019 / Jul 2020).</p>
 
